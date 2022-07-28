@@ -9,22 +9,22 @@
     text-decoration: none;
   }
 
-html {
-    background-image: url("/assets/images/background.jpg");
-    background-repeat: repeat;
-}
+// html {
+//     background-image: url("/assets/images/background.jpg");
+//     background-repeat: repeat;
+// }
 
 body {
-    background-color: rgba(211, 211, 211, 0.97);
+    background-color: rgba(234, 234, 234, 0.97);
     margin-bottom: 0;
     // background-image: url("/assets/images/background.jpg");
     // background-repeat: repeat;
 }
 
 nav {
-    background-color: lightslategray;
-    padding-left: 12.5%;
-    margin-bottom: 100px;
+    background-color: rgb(175, 175, 175);
+    padding-left: 16%;
+    margin-bottom: 50px;
 }
 
     nav a {
@@ -46,6 +46,7 @@ nav {
 #content {
     width: 50%;
     min-width: 450px;
+    margin-bottom: 100px;
 }
 
     #content h1 {
@@ -59,15 +60,20 @@ nav {
 }
 
 #sidebar {
-    width: 25%;
+    width: 15%;
     min-width: 210px;
+    height: min-content;
     // border: 5px solid black;
     text-align: center;
+    background-color: rgba($color: #a4a4a4, $alpha: .4);
+    border-radius: 15%;
+    padding: 20px 5px;
 }
 
     #sidebar img {
-        width: 60%;
+        width: 40%;
         border-radius: 50%;
+        border: 4px solid rgb(196, 196, 196);
     }
 
     #sidebar h2 {
@@ -82,3 +88,7 @@ nav {
         #sidebar a:hover {
             border-bottom: 2px solid rgb(56,56,56);
         }
+
+p {
+    font-size: large;
+}

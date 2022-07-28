@@ -1,38 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>CV</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-
-  <body>
-    <nav>
-    
-        <a href="/" >
-            Home
-        </a>
-    
-        <a href="/CV.html"  class="current" >
-            CV
-        </a>
-    
-</nav>
-    <div style="display:flex;justify-content: center;flex-wrap: wrap;gap:25px;">
-      <div id="sidebar">
-    <img src="/assets/images/2020_Sq.jpg">
-    <h1>Anthony Cruz</h1>
-    <h2>MSc Student</h2>
-    <br>
-    <a href="https://mindalab.com/">The Minda Lab</a><br>
-    <a href="https://psychology.uwo.ca/">Western University</a>
-    <br><br>
-    <p>Connect:</p>
-    <a href="https://twitter.com/AnthonyCruzNow">Twitter</a><a>  |  </a>
-    <a href="https://www.linkedin.com/in/anthony-cruz-06922b169/">LinkedIn</a><a>  |  </a>
-    <a href="acruz27@uwo.ca">Email</a>
-</div>
-      <div id="content">
+I"8<div id="content">
     <h1>Presentations</h1><br />
     <p>
             <strong>Cruz, A.</strong> &amp; Minda, J. P. (November 2022). Sorry, I Can’t Talk Right Now: Category Learning on the Go. <em>Talk to be presented at the 63rd annual meeting of the Psychonomic Society</em>, Boston, MA.
@@ -48,8 +14,4 @@
     </p><br />
     <a href="/assets/CV_Cruz_2021Nov.pdf" target="_blank">Click here to download my CV as a PDF.</a>
 </div>
-
-    </div>
-  </body>
-  
-</html>
+:ET

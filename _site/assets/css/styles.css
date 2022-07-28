@@ -2,11 +2,9 @@
 
 * { margin: 0; padding: 0; font-family: "Gill Sans","Trebuchet MS", "MS Sans Serif", sans-serif; text-decoration: none; }
 
-html { background-image: url("/assets/images/background.jpg"); background-repeat: repeat; }
+body { background-color: rgba(234, 234, 234, 0.97); margin-bottom: 0; }
 
-body { background-color: rgba(211, 211, 211, 0.97); margin-bottom: 0; }
-
-nav { background-color: lightslategray; padding-left: 12.5%; margin-bottom: 100px; }
+nav { background-color: #afafaf; padding-left: 16%; margin-bottom: 50px; }
 
 nav a { display: inline-block; padding: 20px 15px; color: black; }
 
@@ -14,20 +12,22 @@ nav a.current { background-color: rgba(255, 255, 255, 0.4); border-bottom: 5px s
 
 nav a:hover { border-bottom: 5px solid black; }
 
-#content { width: 50%; min-width: 450px; }
+#content { width: 50%; min-width: 450px; margin-bottom: 100px; }
 
 #content h1 { font-size: 3rem; }
 
 #extraContent { width: 75%; min-width: 450px; margin: auto 12.5%; }
 
-#sidebar { width: 25%; min-width: 210px; text-align: center; }
+#sidebar { width: 15%; min-width: 210px; height: min-content; text-align: center; background-color: rgba(164, 164, 164, 0.4); border-radius: 15%; padding: 20px 5px; }
 
-#sidebar img { width: 60%; border-radius: 50%; }
+#sidebar img { width: 40%; border-radius: 50%; border: 4px solid #c4c4c4; }
 
 #sidebar h2 { color: #646464; }
 
 #sidebar a { color: #383838; font-size: medium; }
 
 #sidebar a:hover { border-bottom: 2px solid #383838; }
+
+p { font-size: large; }
 
 /*# sourceMappingURL=styles.css.map */

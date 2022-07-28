@@ -1,11 +1,20 @@
 ---
-layout: no_sidebar
+layout: default
 title: CV
 ---
-<div id="content" style="margin: auto 12.5%;">
-    <h1>Interactive <em>Curriculum Vitae</em></h1>
-    <br>
-    This is my interactive CV.
-    <br><br>
-    <a href="/assets/CV_Cruz_2021Nov.pdf" target="_blank">Click here to download a copy of my CV in PDF format.</a>
+<div id="content">
+    <h1>Presentations</h1><br>
+    <p>
+            <strong>Cruz, A.</strong> & Minda, J. P. (November 2022). Sorry, I Can’t Talk Right Now: Category Learning on the Go. <em>Talk to be presented at the 63rd annual meeting of the Psychonomic Society</em>, Boston, MA.
+    </p><br>
+    <p>
+            <strong>Cruz, A.</strong>, Saulnier, K. G., Huet, A. & Allan, N. P. (May 2020). Attentional control as a potential mechanism linking worry and error monitoring: An event-related potential study. <em>Poster presented at the annual meeting of the Cognitive Neuroscience Society (CNS)</em>, Boston, MA.
+    </p><br>
+    <p>
+        <strong>Cruz, A.</strong> (July 2019). Understanding patterns of interlock use based on failure times, failure rates, invalid test rates, and rolling retest rates. <em>Poster presented at the University of Missouri Summer Undergraduate Research & Creative Achievements Forum</em>, Columbia, MO.
+    </p><br>
+    <p>
+        <strong>Cruz, A.</strong> & Sharrock, A. (April 2018). National suicide trends and suicide trends in Southeast Ohio. <em>Poster presented at the Ohio University Student Research and Creativity Expo</em>, Athens, OH.
+    </p><br>
+    <a href="/assets/CV_Cruz_2021Nov.pdf" target="_blank">Click here to download my CV as a PDF.</a>
 </div>

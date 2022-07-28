@@ -13,10 +13,9 @@ title: Research | Anthony Cruz
         See my CV for a list of my conference presentations.
     </p>
 </div>
-<div id="extraContent">
+<!-- <div id="extraContent">
     <h2>Category Learning</h2>
     <br>
     <p>
-        Although there is great value to uncovering the absolute truths of our universe, humans cannot often act on these truths. Instead we rely on our perceptions of the world, which are often riddled with bias based on our beliefs and experiences.
     </p>
-</div>
+</div> -->
