@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: Research
 ---
 <div id="content">
     <h1>Presentations</h1><br>

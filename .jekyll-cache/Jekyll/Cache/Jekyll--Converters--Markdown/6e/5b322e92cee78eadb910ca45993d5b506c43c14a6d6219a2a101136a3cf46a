@@ -1,0 +1,13 @@
+I"ˆ<div id="content">
+    <h1>Random Response Simulator</h1><br />
+    <p>
+        In a category learning study, some participants are bound to respond randomly instead of trying to learn the task. Theoretical chance levels (i.e., 50% for two-category systems) provide a good point of reference for random responders, but the amount of variation from this theoretical chance level that may be reasonably expected is dependent on the study design.
+
+        How many categories are involved?
+
+        How many stimuli are presented during one block of learning?
+        This shiny app simulates random responders and indicates what level of performance might be too high for a participant to be responding randomly.
+    </p><br />
+    <a href="https://anthonycruz.shinyapps.io/category-learning-sim/?_ga=2.21603835.1523995509.1646692810-1695429528.1646692810" target="_blank">Click here to access.</a>
+</div>
+:ET

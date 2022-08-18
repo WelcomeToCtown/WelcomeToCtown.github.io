@@ -4,7 +4,9 @@
 #   link: /about.html
 # - name: Research
 #   link: /research.html
-- name: CV
+- name: Research
   link: /CV.html
+- name: Portfolio
+  link: /portfolio.html
 # - name: Blog
 #   link: /blog.html

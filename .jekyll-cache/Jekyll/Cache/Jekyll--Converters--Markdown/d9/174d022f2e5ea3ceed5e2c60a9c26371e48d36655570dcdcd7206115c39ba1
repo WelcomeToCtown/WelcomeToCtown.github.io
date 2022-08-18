@@ -1,0 +1,15 @@
+I"t<div id="content">
+    <h1>Random Response Simulator</h1><br />
+    <p>
+        In a category learning study, some participants are bound to respond randomly instead of trying to learn the task. The degree to which a random responder's overall accuracy may differ from chance levels is dependent on the study design.<br /><br />
+    </p>
+    <ul>
+        <li>How many categories are being learned?</li>
+        <li>How many stimuli are presented during one block of learning?</li>
+    </ul><br />
+    <p>
+        My shiny app uses your responses to these questions to run Monte Carlo simulations which determine what levels of performance may be reasonably expected from a random responder.
+    </p><br />
+    <a href="https://anthonycruz.shinyapps.io/category-learning-sim/?_ga=2.21603835.1523995509.1646692810-1695429528.1646692810" target="_blank">Click here to access.</a>
+</div>
+:ET
